@@ -9,3 +9,10 @@ Today, I focused on the following topics:
 - Variables and Data Types
 - Input and Output in Java
 
+## 📖 Next Steps
+- Practice problem-solving using Java.
+- Continue with **Striver's A to Z DSA Sheet**.
+
+---
+
+Stay tuned for more updates! 😊
