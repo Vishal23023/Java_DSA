@@ -10,7 +10,7 @@ Today, I focused on the following topics:
 - Input and Output in Java
 
 ## 📖 Next Steps
-- Practice problem-solving using Java.
+- Practice Conditionals using Java.
 - Continue with **Striver's A to Z DSA Sheet**.
 
 ---
@@ -22,6 +22,11 @@ Today, I focused on the following topics:
 - Switch Case Statements
 - Ternary Operator
 - Logical and Relational Operators
+
+## 📖 Next Steps
+- Practice Loops using Java.
+- Continue with **Striver's A to Z DSA Sheet**.
+
 
 ---
 
