@@ -15,13 +15,13 @@ Today, I focused on the following topics:
 
 ---
 
-📅 Day 2 - Conditionals in Java
+## 📅 Day 2 - Conditionals in Java
 Today, I focused on the following topics:
--If-Else Statements
--Nested If-Else
--Switch Case Statements
--Ternary Operator
--Logical and Relational Operators
+- If-Else Statements
+- Nested If-Else
+- Switch Case Statements
+- Ternary Operator
+- Logical and Relational Operators
 
 ---
 
