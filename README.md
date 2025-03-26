@@ -30,4 +30,18 @@ Today, I focused on the following topics:
 
 ---
 
+## 📅 Day 3 - Loops in Java
+Today, I focused on the following topics:
+- For Loop
+- While Loop
+- Do-While Loop
+- Break and Continue Statements
+- Nested Loops
+
+## 📖 Next Steps
+- Solve problems using loops.
+- Continue with Striver's A to Z DSA Sheet.
+
+---
+
 Stay tuned for more updates! 😊
